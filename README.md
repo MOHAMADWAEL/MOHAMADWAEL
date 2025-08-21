@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOHAMADWAEL
+- 👋 Hi, I’m @Mohamad Wael
 - 👀 I’m interested in programing, coding, computer science
 - 🌱 I’m currently learning java script 
 - 💞️ I’m looking to collaborate on ...
